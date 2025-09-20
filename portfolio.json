@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "title": "Finance",
+    "img": "https://yourcdn.com/project-1.jpg",
+    "type": "Web development",
+    "category": "Web development"
+  },
+  {
+    "id": 1,
+    "title": "Orizon",
+    "img": "https://yourcdn.com/project-2.png",
+    "type": "Web development",
+    "category": "Web development"
+  },
+  {
+    "id": 2,
+    "title": "Fundo",
+    "img": "https://yourcdn.com/project-3.jpg",
+    "type": "Web design",
+    "category": "Web Design"
+  }
+]
