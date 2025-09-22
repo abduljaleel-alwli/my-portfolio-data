@@ -1,11 +1,28 @@
 {
   "about": {
-    "title": "About me",
+    "title": "About Me",
+    "name": "Abduljaleel Alwli",
+    "avatar": "/assets/images/my-avatar.png",
+    "job_name": "Web Developer",
     "aboutText": [
       "I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.",
       "My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use."
     ],
     "lastUpdated": "2025-09-22"
+  },
+
+  "contacts": {
+    "title": "Get in Touch",
+    "email": "shamll.coding@gmail.com",
+    "phone": "+967 737 140 316",
+    "birthday": "September 11, 2005",
+    "location": "Yemen, Sana`a, Shmlan",
+    "socials": {
+      "facebook": "https://www.facebook.com/shamll.tech",
+      "github": "https://github.com/abduljaleel-alwli",
+      "instagram": "https://instagram.com/shamll.tech",
+      "x": "https://x.com/shamll_tech"
+    }
   },
 
   "services": [
