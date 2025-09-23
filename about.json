@@ -21,22 +21,22 @@
       {
         "name": "Facebook",
         "url": "https://www.facebook.com/shamll.tech",
-        "icon": "facebook"
+        "icon": "logo-facebook"
       },
       {
         "name": "GitHub",
         "url": "https://github.com/abduljaleel-alwli",
-        "icon": "github"
+        "icon": "logo-github"
       },
       {
         "name": "Instagram",
         "url": "https://instagram.com/shamll.tech",
-        "icon": "instagram"
+        "icon": "logo-instagram"
       },
       {
         "name": "X",
         "url": "https://x.com/shamll_tech",
-        "icon": "twitter"
+        "icon": "logo-twitter"
       }
     ]
   },
