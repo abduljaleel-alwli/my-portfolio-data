@@ -17,12 +17,28 @@
     "email": "shamll.coding@gmail.com",
     "phone": "+967 737 140 316",
     "location": "Yemen, Sana`a, Shmlan",
-    "socials": {
-      "facebook": "https://www.facebook.com/shamll.tech",
-      "github": "https://github.com/abduljaleel-alwli",
-      "instagram": "https://instagram.com/shamll.tech",
-      "x": "https://x.com/shamll_tech"
-    }
+    "socials": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/shamll.tech",
+        "icon": "facebook"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/abduljaleel-alwli",
+        "icon": "github"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/shamll.tech",
+        "icon": "instagram"
+      },
+      {
+        "name": "X",
+        "url": "https://x.com/shamll_tech",
+        "icon": "twitter"
+      }
+    ]
   },
 
   "services": [
