@@ -46,22 +46,22 @@
     {
       "title": "UI/UX Design",
       "description": "Designing intuitive and user-friendly interfaces.",
-      "icon": "/assets/images/icon-design.svg"
+      "icon": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/icon-design.svg"
     },
     {
       "title": "Web Development",
       "description": "Building modern and scalable web applications.",
-      "icon": "/assets/images/icon-dev.svg"
+      "icon": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/icon-dev.svg"
     },
     {
       "title": "SEO Optimization",
       "description": "Improving visibility and ranking on search engines.",
-      "icon": "/assets/images/icon-app.svg"
+      "icon": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/icon-app.svg"
     },
     {
       "title": "Photography",
       "description": "I make high-quality photos of any category at a professional level.",
-      "icon": "/assets/images/icon-photo.svg"
+      "icon": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/icon-photo.svg"
     }
   ],
 
@@ -71,65 +71,65 @@
       "date": "2025-09-22",
       "role": "CEO, CompanyX",
       "feedback": "Great to work with, delivered everything on time!",
-      "avatar": "/assets/images/avatar-1.png"
+      "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-1.png"
     },
     {
       "name": "Jane Smith",
       "date": "2025-09-22",
       "role": "Marketing Manager",
       "feedback": "Very professional and creative in design.",
-      "avatar": "/assets/images/avatar-2.png"
+      "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-2.png"
     },
     {
       "name": "Jane Smith",
       "date": "2025-09-22",
       "role": "Marketing Manager",
       "feedback": "Very professional and creative in design.",
-      "avatar": "/assets/images/avatar-3.png"
+      "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-3.png"
     },
     {
       "name": "Jane Smith",
       "date": "2025-09-22",
       "role": "Marketing Manager",
       "feedback": "Very professional and creative in design.",
-      "avatar": "/assets/images/avatar-4.png"
+      "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-4.png"
     }
   ],
 
   "clients": [
     {
       "name": "Google",
-      "logo": "/assets/images/logo-1-color.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/logo-1-color.png",
       "url": "https://google.com"
     },
     {
       "name": "Microsoft",
-      "logo": "/assets/images/logo-2-color.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/logo-2-color.png",
       "url": "https://microsoft.com"
     },
     {
       "name": "Amazon",
-      "logo": "/assets/images/logo-2-color.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/logo-2-color.png",
       "url": "https://amazon.com"
     },
     {
       "name": "Amazon",
-      "logo": "/assets/images/logo-3-color.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/logo-3-color.png",
       "url": "https://amazon.com"
     },
     {
       "name": "Amazon",
-      "logo": "/assets/images/logo-4-color.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/logo-4-color.png",
       "url": "https://amazon.com"
     },
     {
       "name": "Amazon",
-      "logo": "/assets/images/logo-5-color.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/logo-5-color.png",
       "url": "https://amazon.com"
     },
     {
       "name": "Amazon",
-      "logo": "/assets/images/logo-6-color.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/logo-6-color.png",
       "url": "https://amazon.com"
     }
   ]
