@@ -2,7 +2,7 @@
   "about": {
     "title": "About Me",
     "name": "Abduljaleel Alwli",
-    "avatar": "/assets/images/my-avatar.png",
+    "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/my-avatar.png",
     "job_name": "Web Developer",
     "birthday": "September 11, 2005",
     "aboutText": [
