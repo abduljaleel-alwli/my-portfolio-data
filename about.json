@@ -16,7 +16,8 @@
     "title": "Get in Touch",
     "email": "shamll.coding@gmail.com",
     "phone": "+967 737 140 316",
-    "location": "Yemen, Sana`a, Shmlan",
+    "address": "Yemen, Sana`a, Shmlan",
+    "location": "https://www.google.com/maps/place/Sanaa,+Yemen/@15.3694456,44.1910071,12z/data=!3m1!4b1!4m5!3m4!1s0x160f9c0f7b2f1d2f:0x7c8a5f5e3a2e3b0!8m2!3d15.3694456!4d44.1910071",
     "socials": [
       {
         "name": "Facebook",

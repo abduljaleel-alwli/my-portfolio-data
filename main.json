@@ -1,5 +1,6 @@
 {
     "title": "Abduljaleel Alwli | Portfolio",
-    "baseURL": "https://cdn.jsdelivr.net/gh/",
+    "baseURL": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data",
+    "blogRssBaseUrl": "https://api.rss2json.com/v1/api.json?rss_url=https://www.shamlltech.com/rss.xml",
     "theme": "dark"
 }
