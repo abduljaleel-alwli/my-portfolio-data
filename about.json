@@ -17,7 +17,7 @@
     "email": "shamll.coding@gmail.com",
     "phone": "+967 737 140 316",
     "address": "Yemen, Sana`a, Shmlan",
-    "location": "https://www.google.com/maps/place/Sanaa,+Yemen/@15.3694456,44.1910071,12z/data=!3m1!4b1!4m5!3m4!1s0x160f9c0f7b2f1d2f:0x7c8a5f5e3a2e3b0!8m2!3d15.3694456!4d44.1910071",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7994.981774238198!2d44.15276971585021!3d15.407977368240154!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1603dbd54684f731%3A0xa46b957a1482ac73!2z2LXZhti52KfYoeKAjtiMINin2YTZitmO2YXZjtmG!5e0!3m2!1sen!2s!4v1758751629996!5m2!1sen!2s",
     "socials": [
       {
         "name": "Facebook",
@@ -59,39 +59,39 @@
       "icon": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/icon-app.svg"
     },
     {
-      "title": "Photography",
-      "description": "I make high-quality photos of any category at a professional level.",
-      "icon": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/icon-photo.svg"
+      "title": "Extensions Development",
+      "description": "I develop high-quality browser extensions with a focus on performance, usability, and seamless integration.",
+      "icon": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/icon-extension.svg"
     }
   ],
 
   "testimonials": [
     {
-      "name": "John Doe",
-      "date": "2025-09-22",
-      "role": "CEO, CompanyX",
-      "feedback": "Great to work with, delivered everything on time!",
+      "name": "Fawzi",
+      "date": "17 August 2025",
+      "role": "CEO, Company TMunlocker",
+      "feedback": "Did an excellent job, handled all the requested changes without any issues, and worked with professionalism and efficiency.",
       "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-1.png"
     },
     {
-      "name": "Jane Smith",
-      "date": "2025-09-22",
+      "name": "Asma eabidu",
+      "date": "29 June 2025",
       "role": "Marketing Manager",
-      "feedback": "Very professional and creative in design.",
+      "feedback": "Thank you very much, my brother Abduljaleel, for your excellent service and professionalism in your work. I truly enjoyed working with you and I look forward to collaborating with you on future projects, God willing.",
       "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-2.png"
     },
     {
-      "name": "Jane Smith",
-      "date": "2025-09-22",
-      "role": "Marketing Manager",
-      "feedback": "Very professional and creative in design.",
-      "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-3.png"
+      "name": "Mousa A.",
+      "date": "1 April 2025",
+      "role": "Web Developer",
+      "feedback": "Outstanding effort, may God bless you. The work was done with precision and delivered quickly. I highly recommend working with him",
+      "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-1.png"
     },
     {
-      "name": "Jane Smith",
-      "date": "2025-09-22",
-      "role": "Marketing Manager",
-      "feedback": "Very professional and creative in design.",
+      "name": "Abdullah A",
+      "date": "15 June 2024",
+      "role": "Manager",
+      "feedback": "Thank you, Engineer, for your courteous attitude and professional work. We will meet again in other projects. Thanks again.",
       "avatar": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/avatar-4.png"
     }
   ],
