@@ -15,15 +15,15 @@
     "category": "Web design",
     "link": "https://elebox.sa/"
   },
-  {
+    {
     "id": 2,
-    "title": "Watches",
-    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/watches.png",
+    "title": "Saloni Beauty",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/saloni.png",
     "type": "Web development",
     "category": "Web development",
-    "link": "https://abduljaleel-alwli.epizy.com/watches/"
+    "link": "https://saloni-beauty.blogspot.com/"
   },
-    {
+  {
     "id": 3,
     "title": "Christmas",
     "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/christmas.png",
@@ -41,11 +41,11 @@
   },
   {
     "id": 5,
-    "title": "Halloween",
-    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/halloween.png",
+    "title": "Watches",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/watches.png",
     "type": "Web development",
     "category": "Web development",
-    "link": "https://abduljaleel-alwli.epizy.com/halloween"
+    "link": "https://abduljaleel-alwli.epizy.com/watches/"
   },
   {
     "id": 6,
@@ -73,6 +73,14 @@
   },
   {
     "id": 9,
+    "title": "Halloween",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/halloween.png",
+    "type": "Web development",
+    "category": "Web development",
+    "link": "https://abduljaleel-alwli.epizy.com/halloween"
+  },
+  {
+    "id": 10,
     "title": "Restaurant",
     "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/restaurant.png",
     "type": "Web design",
