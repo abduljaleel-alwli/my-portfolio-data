@@ -99,42 +99,42 @@
   "clients": [
     {
       "name": "ELEBox",
-      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/ELEBox.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/clients/ELEBox.png",
       "url": "https://elebox.sa"
     },
     {
       "name": "TMunlocker",
-      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/TMunlocker.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/clients/TMunlocker.png",
       "url": "https://tmunlocker.com/"
     },
     {
       "name": "EDU-EX Academy",
-      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/EDU-EX-Academy.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/clients/EDU-EX-Academy.png",
       "url": "https://eduexacademy.com"
     },
     {
       "name": "Ramses Unlocker",
-      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/Ramses-Unlocker.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/clients/Ramses-Unlocker.png",
       "url": "https://ramses-unlocker.com/"
     },
     {
       "name": "Namas KSA",
-      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/Namas-KSA.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/clients/Namas-KSA.png",
       "url": "https://namas-ksa.com"
     },
     {
       "name": "Shymara",
-      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/Shymara.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/clients/Shymara.png",
       "url": "https://shymara.com/"
     },
     {
       "name": "Trending Shops World",
-      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/Trending-Shops-World.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/clients/Trending-Shops-World.png",
       "url": "https://trendingshopsworld.com/"
     },
     {
       "name": "Trending Shops News",
-      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/Trending-Shops-News.png",
+      "logo": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/clients/Trending-Shops-News.png",
       "url": "https://trendingshopsnews.com/"
     }
   ]

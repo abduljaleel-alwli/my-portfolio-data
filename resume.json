@@ -5,19 +5,9 @@
       "icon": "book-outline",
       "items": [
         {
-          "title": "University school of the arts",
-          "date": "2007 — 2008",
-          "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
-        },
-        {
-          "title": "New york academy of art",
-          "date": "2006 — 2007",
-          "description": "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
-        },
-        {
-          "title": "High school of art and design",
-          "date": "2002 — 2004",
-          "description": "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+          "title": "Self-learning & Continuous Training",
+          "date": "2022 — Present",
+          "description": "Acquired advanced knowledge in PHP, MySQL, WordPress, Laravel, React.js, Next.js, JavaScript, and modern front-end technologies such as HTML5, CSS3, Bootstrap, jQuery, and SASS through continuous learning, online courses, and practical projects."
         }
       ]
     },
@@ -26,39 +16,47 @@
       "icon": "briefcase-outline",
       "items": [
         {
-          "title": "Creative director",
-          "date": "2015 — Present",
-          "description": "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+          "title": "Freelance Web Designer",
+          "date": "2022 — 2023",
+          "description": "Delivered professional landing page designs, graphic assets, and website templates. Focused on clean, attractive designs and offering multiple formats (JPG, PDF, PNG) with revisions to meet client expectations."
         },
         {
-          "title": "Art director",
-          "date": "2013 — 2015",
-          "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+          "title": "Frontend Developer & Designer",
+          "date": "2023 — 2024",
+          "description": "Created visually appealing, user-friendly interfaces with responsive designs. Delivered modern layouts tailored to target audiences, ensuring high usability across all devices."
         },
         {
-          "title": "Web designer",
-          "date": "2010 — 2013",
-          "description": "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+          "title": "Full Stack Web Developer",
+          "date": "2024 — Present",
+          "description": "Specialized in designing and developing responsive websites and landing pages with a professional approach. Provided optimization services such as speed improvement, security setup, and SEO-friendly structures."
         }
       ]
     }
   ],
   "skills": [
     {
-      "name": "Web design",
-      "value": 80
+      "name": "Frontend Development (HTML, CSS, JS, Next.js)",
+      "value": 85
     },
     {
-      "name": "Graphic design",
-      "value": 70
+      "name": "Backend Development (PHP, Laravel, MySQL)",
+      "value": 75
+    },
+    {
+      "name": "WordPress",
+      "value": 80
     },
     {
       "name": "Extensions Development",
       "value": 90
     },
     {
-      "name": "WordPress",
-      "value": 50
+      "name": "UI/UX & Web Design",
+      "value": 70
+    },
+    {
+      "name": "Website Optimization & Security",
+      "value": 65
     }
   ]
 }

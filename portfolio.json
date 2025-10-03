@@ -1,26 +1,82 @@
 [
   {
     "id": 0,
-    "title": "Finance",
-    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/ba3daa233340543.68b85c9f9bb1d.png",
+    "title": "Afkari",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/afkari.png",
     "type": "Web development",
     "category": "Web development",
-    "link": "/finance"
+    "link": "https://afkari.zya.me/"
   },
   {
     "id": 1,
-    "title": "Orizon",
-    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/ba3daa233340543.68b85c9f9bb1d.png",
-    "type": "Web development",
-    "category": "Web development",
-    "link": "#"
+    "title": "ELEBox",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/ELEBox.png",
+    "type": "Web design",
+    "category": "Web design",
+    "link": "https://elebox.sa/"
   },
   {
     "id": 2,
-    "title": "Fundo",
-    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/ba3daa233340543.68b85c9f9bb1d.png",
+    "title": "Watches",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/watches.png",
+    "type": "Web development",
+    "category": "Web development",
+    "link": "https://abduljaleel-alwli.epizy.com/watches/"
+  },
+    {
+    "id": 3,
+    "title": "Christmas",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/christmas.png",
+    "type": "Web development",
+    "category": "Web development",
+    "link": "https://abduljaleel-alwli.epizy.com/christmas"
+  },
+  {
+    "id": 4,
+    "title": "EDU-EX Academy",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/eduexacademy.png",
+    "type": "Web development",
+    "category": "Web development",
+    "link": "https://eduexacademy.com/blog"
+  },
+  {
+    "id": 5,
+    "title": "Halloween",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/halloween.png",
+    "type": "Web development",
+    "category": "Web development",
+    "link": "https://abduljaleel-alwli.epizy.com/halloween"
+  },
+  {
+    "id": 6,
+    "title": "Clock UI",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/clock-ui.png",
     "type": "Web design",
-    "category": "Web Design",
-    "link": "#"
+    "category": "Web design",
+    "link": "https://abduljaleel-alwli.epizy.com/clock"
+  },
+  {
+    "id": 7,
+    "title": "Headphones",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/headphones.png",
+    "type": "Web design",
+    "category": "Web design",
+    "link": "https://abduljaleel-alwli.epizy.com/headphones"
+  },
+  {
+    "id": 8,
+    "title": "Plants",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/plants.png",
+    "type": "Web design",
+    "category": "Web design",
+    "link": "https://abduljaleel-alwli.epizy.com/plants"
+  },
+  {
+    "id": 9,
+    "title": "Restaurant",
+    "img": "https://cdn.jsdelivr.net/gh/abduljaleel-alwli/my-portfolio-data/assets/images/projects/restaurant.png",
+    "type": "Web design",
+    "category": "Web design",
+    "link": "https://abduljaleel-alwli.epizy.com/restaurant"
   }
 ]
